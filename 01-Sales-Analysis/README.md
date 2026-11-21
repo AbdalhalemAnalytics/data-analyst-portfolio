@@ -45,3 +45,13 @@ The dashboard provides insights into:
 - Customer Behavior
 - Delivery Performance
 - Profitability Analysis
+## Data Visualizations
+
+### Monthly Sales Trend
+![Monthly Sales Trend](images/monthly-sales-trend.png)
+
+### Sales by Category
+![Sales by Category](images/sales-by-category.png)
+
+### Delivery Time vs Customer Rating
+![Delivery Rating Analysis](images/delivery-rating-analysis.png)
