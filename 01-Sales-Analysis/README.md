@@ -27,3 +27,21 @@ An Excel-based sales analysis project for 2025.
 
 ## Project File
 [Download Excel Analysis](../sales-analysis-2025.xlsx)
+
+## Interactive Dashboard
+
+Explore the full interactive Sales Dashboard:
+
+[View Sales Dashboard – 2025](https://sites.google.com/view/abdalhalem-sales-2025/full-page-embed)
+
+## Project Overview
+
+This project presents a sales performance analysis for 2025 using Microsoft Excel.
+
+The dashboard provides insights into:
+- Sales Performance
+- Product Categories
+- Monthly Sales Trends
+- Customer Behavior
+- Delivery Performance
+- Profitability Analysis
