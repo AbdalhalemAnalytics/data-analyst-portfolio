@@ -1,62 +1,46 @@
 
 # 🛒 E-commerce Customer Analysis
 
-A data analysis project focused on understanding customer behavior, purchasing patterns, and customer churn using SQL and statistical analysis.
+A data analysis project focused on understanding customer behavior, purchasing patterns, and customer churn using SQL and statistical methods.
 
 ## 📌 Project Overview
 
-This project analyzes e-commerce customer data to identify purchasing trends, understand customer behavior, and explore factors associated with customer churn.
-
-The analysis combines SQL techniques and statistical methods to extract meaningful insights and support data-driven decision-making.
+This project analyzes e-commerce customer data to explore purchasing patterns, customer spending, and churn behavior using statistical techniques.
 
 ## 🎯 Project Objectives
 
 - Analyze customer purchasing behavior.
-- Measure customer spending patterns.
-- Understand customer churn.
-- Explore relationships between customer variables.
-- Apply statistical tests to investigate differences and associations.
+- Understand customer spending patterns.
+- Explore customer churn.
+- Identify relationships between customer variables.
+- Apply statistical methods to extract insights.
 - Present findings through an interactive dashboard.
-
-## 📂 Project Structure
-
-```text
-02-Customer-Analysis/
-│
-├── data/
-│   └── ecommerce_customer_analysis_100.csv
-│
-├── sql/
-│   └── customer-analysis.sql
-│
-├── results/
-│   ├── analysis-report.pdf
-│   └── analysis-results.xlsx
-│
-├── images/
-│   ├── customer-overview.png
-│   ├── churn-analysis.png
-│   └── spending-analysis.png
-│
-└── README.md
-```
 
 ## 📊 Interactive Dashboard
 
-Explore the interactive dashboard:
+Explore the interactive Customer Analysis Dashboard:
 
 [🚀 View Customer Analysis Dashboard](https://sites.google.com/view/customer-analysis/full-page-embed)
 
-## 🗂️ Dataset
+## 📁 Project Files
 
-- Dataset: E-commerce Customer Dataset
-- Number of Records: 100 customers
-- Data Format: CSV
-- Data Type: Customer and purchasing information
+### 1. Raw Dataset
 
-The raw dataset is available here:
+Original customer dataset in CSV format:
 
-[📥 Download Raw Dataset](data/ecommerce_customer_analysis_100.csv)
+[📥 Download Raw Dataset](./ecommerce_customer_analysis_100.csv)
+
+### 2. Statistical Analysis Report
+
+PDF report explaining the analysis methodology and statistical results:
+
+[📄 View Analysis Report](./customer-analysis-report.pdf)
+
+### 3. Dashboard
+
+Interactive dashboard for exploring customer analysis results:
+
+[📊 Open Dashboard](https://sites.google.com/view/customer-analysis/full-page-embed)
 
 ## 🛠️ Tools & Technologies
 
@@ -68,23 +52,7 @@ The raw dataset is available here:
 
 ## 🔍 Analysis Methodology
 
-### 1. Data Exploration
-- Inspect dataset structure.
-- Check missing values.
-- Identify duplicate records.
-- Understand variable distributions.
-
-### 2. SQL Analysis
-- GROUP BY
-- Aggregate Functions
-- Window Functions
-- NTILE
-- Customer Segmentation
-
-### 3. Statistical Analysis
-
-The project explores several statistical techniques:
-
+- Data Exploration
 - Descriptive Statistics
 - Welch's t-test
 - Pearson Correlation
@@ -92,26 +60,14 @@ The project explores several statistical techniques:
 - ANOVA
 - Logistic Regression
 
-## 📈 Key Findings
-
-The preliminary analysis identified:
+## 📈 Preliminary Key Findings
 
 - Total Customer Spending: 979,848.70 EGP
 - Average Customer Spending: 9,798.49 EGP
 - Median Customer Spending: 5,553.12 EGP
 - Customer Churn Rate: 33%
 
-*These figures are preliminary and should be checked against the final validated analysis before being treated as final results.*
-
-## 📁 Project Files
-
-| File | Description |
-|---|---|
-| `data/` | Raw customer dataset |
-| `sql/` | SQL analysis queries |
-| `results/` | Analysis reports and results |
-| `images/` | Dashboard screenshots and charts |
-| `README.md` | Project documentation |
+*These figures are preliminary and subject to final validation.*
 
 ## 👨‍💻 Author
 
@@ -120,9 +76,9 @@ The preliminary analysis identified:
 Aspiring Data Analyst
 
 - GitHub: [AbdalhalemAnalytics](https://github.com/AbdalhalemAnalytics)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/abdalhalem-anwr-3211503b4/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abdalhalem-anwr-3211503b4/)
 - Email: anwr37668@gmail.com
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the dashboard and project files.
+⭐ Thank you for exploring my project!
