@@ -42,13 +42,31 @@ Interactive dashboard for exploring customer analysis results:
 
 [📊 Open Dashboard](https://sites.google.com/view/customer-analysis/full-page-embed)
 
+
 ## 🛠️ Tools & Technologies
 
-- SQL
+- SQLite
+- SQL Queries
 - Statistical Analysis
 - Microsoft Excel
 - Data Visualization
 - Google Sites
+
+## 💻 SQL Analysis
+
+The SQL queries used in this project are available here:
+
+[View SQL Analysis](./sql/customer-analysis.sql)
+
+The analysis includes:
+
+- Data Quality Checks
+- Customer Spending Analysis
+- Customer Churn Analysis
+- Customer Segmentation using NTILE()
+- Customer Ranking
+- Statistical Analysis Preparation
+
 
 ## 🔍 Analysis Methodology
 
